@@ -19,4 +19,3 @@ Data :-
 -ZipCode
 -Income
 -Approved
-
